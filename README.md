@@ -85,7 +85,8 @@ Insights
 
 • The top 5 customers make up a big chunk of overall customer revenue — the business is fairly dependent on a small group of repeat buyers.
 
-Live Link 
+Live Link : [Retail-Supply-Chain-Sales-Dataset.xlsx](https://github.com/user-attachments/files/32692037/Retail-Supply-Chain-Sales-Dataset.xlsx)
+
 
 # Overall Conclusion
 Overall, this dashboard shows that West and East regions, Standard Class shipping, and the Office Supplies/Technology categories are really carrying the business. That said, there's a heavy reliance on one standout product (Canon imageCLASS 2200) and a small set of top customers, which isn't the most stable position long-term. Returns are manageable at around 8%, but there's clear room to grow Central and Furniture, diversify the product mix a bit, and take a closer look at how discounts are being applied on office accessories.
